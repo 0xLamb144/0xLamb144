@@ -50,7 +50,6 @@ I'm a Full-Stack Web Developer and digital craftsman who is always eager to dive
 
 <img align="left" alt="express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
-<img align="left" alt="mongoDB" width="50px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br/>
 <br/>
 <br/>
