@@ -1,13 +1,19 @@
+<div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lamb144.visitor-badge&left_text=Guests">
+</div>
+
+<br/>
+<br/>
+<br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=+{Avin+Johnson};+Web+Developer;+" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=9000&lines=+{Avin+Johnson};+<Web+Developer/>;+['Planning'+, +'Design',+ 'Creation']+; +<strong>+Full-Stack+</strong>+" />
 
 </div>
 
 **`🐑ƛ144 (1 of 1)`**
 
-I'm a full-stack web developer and digital craftsman who is always eager to dive into new technologies and craft innovative solutions. I'am building a solid foundation in React, React Three Fiber & Next.js. I'am focused on emerging technologies that manage serverside logic while integrating robust and unique user interfaces.
+I'm a Full-Stack Web Developer and digital craftsman who is always eager to dive into new technologies and craft innovative solutions. I'am building a solid foundation in React, React Three Fiber & Next.js. I'am focused on emerging technologies that manage serverside logic while integrating robust and unique user interfaces.
 
   <div align="center"><a href="mailto:alvinjohnson144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
