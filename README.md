@@ -1,6 +1,4 @@
-<div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lamb144.visitor-badge&left_text=Guests">
-</div>
 
 <br/>
 <br/>
