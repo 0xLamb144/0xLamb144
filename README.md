@@ -12,12 +12,10 @@
 
 I'm a Full-Stack Web Developer and digital craftsman who is always eager to dive into new technologies and craft innovative solutions. I'am building a solid foundation in React, React Three Fiber & Next.js. I'am focused on emerging technologies that manage serverside logic while integrating robust and unique user interfaces.
 
-  <div align="center"><a href="mailto:alvinjohnson144@gmail.com">
-    <img src="https://img.shields.io/badge/EMail me-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <div align="center"><a href="mailto:Lamb144@dmail.ai">
+    <img src="https://img.shields.io/badge/DMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/alvinjohnson144/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit MY LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+ 
   </div>
 
 ##
