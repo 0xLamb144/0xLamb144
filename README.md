@@ -42,7 +42,7 @@ As a newly minted digital craftsman who is always eager to dive into new technol
 
 <img align="left" alt="Sass" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="left" alt="tailwind" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="hardhat" width="60px" style="padding-right:20px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg)" />
 
 <img align="left" alt="postgres" width="70px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
