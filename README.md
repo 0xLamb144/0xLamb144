@@ -30,7 +30,7 @@ As a newly minted digital craftsman who is always eager to dive into new technol
 
 <img align="left" alt="React" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="mongoDB" width="50px" style="padding-right:20px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JsczlqbGVyYWxuMzBvcXB1ZHloczBtanQ4MDQ4YXh3cDVuM3AzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/200.webp" />
+<img align="left" alt="mongoDB" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 <img align="left" alt="NodeJS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
