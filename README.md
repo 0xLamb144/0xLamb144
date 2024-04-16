@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/wv1RNuvWMjQ10bzExO/200.webp?cid=ecf05e4785if15ak0zu4d8sx66bfaix2nihpvyzq311a8sqw&ep=v1_gifs_search&rid=200.webp&ct=g" width="500" height="320" />
 
 <div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=320&duration=9000&lines=+{Avin+Johnson};+<Web+Developer/>;+['Planning'+, +'Design',+ 'Creation']+; +<strong>+Full-Stack+</strong>+" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=320&duration=9000&lines=+{Avin+Johnson};+<Web+Developer/>;+['Planning'+, +'Design',+ 'Creation']+; +<strong>+Full-Stack+</strong>+" /> -->
 
 </div>
     
