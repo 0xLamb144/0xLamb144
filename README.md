@@ -10,7 +10,7 @@
     
 **`🐑ƛ144 (1 of 1)`**
 
-I'am a newly minted digital craftsman who is always eager to dive into new technologies and craft innovative solutions. I'am building a solid foundation in React, React Three Fiber & Next.js. I'am focused on emerging technologies that manage serverside logic while integrating robust and unique user interfaces.
+As a newly minted digital craftsman who is always eager to dive into new technologies and craft innovative solutions. I'am building a solid foundation in React, React Three Fiber & Next.js. I'am focused on emerging technologies that manage serverside logic while integrating robust and unique user interfaces.
 
   <div align="center"><a href="mailto:Lamb144@dmail.ai">
     <img src="https://img.shields.io/badge/DMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
