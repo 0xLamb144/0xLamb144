@@ -22,7 +22,7 @@ As a newly minted digital craftsman who is always eager to dive into new technol
 
 <h2 align="center">  🧠 Languages-Frameworks-Tools  🧠</h2>
 
-<img align="left" alt="JavaScript" width="50px" style="padding-right:30px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWo3djIxODg0YWYzeDB0dDY1Nnh3czhvNTI3M2ZzMWFsZjlibjJ5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvFocn0wNMx0iv2rYz/giphy.webp" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:30px;" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"" />
 
 <img align="left" alt="HTML" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
